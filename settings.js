@@ -36,7 +36,7 @@ global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
-global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `https://i.ibb.co/X3K9hQd/Sunith-20220929-003340.jpg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "true"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "true" // call block "true" / "false" ("true"  to block callers)
@@ -50,7 +50,7 @@ global.welcom_msg = "false" // Welcome / Goodbye   [true/false]
 global.owner = ['+923172460588']
 global.ownertag = '+923172460588' //your tag number
 global.botname = 'AhMaD<>RaZa' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
+global.packname = "~_RaZa_~" // sticker packname
 global.author = "𝙍AZa╺" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
