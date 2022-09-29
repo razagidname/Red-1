@@ -31,9 +31,9 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owner v card
 global.vcardowner = ['+923172460588'] // owner number
 global.ownername = "_RaZa❯❯_" // owner name
-global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
-global.location = "India, Mizoram, Aizawl" // location
+global.ytname = "https://chat.whatsapp.com/FtKn7Pn6bahLFHRKWrFn3R " // yt chanel name
+global.socialm = "♥️دل➿نـــــادان🅰️" // github or insta name
+global.location = "Pakistan Karachi" // location
 
 //bot body 
 global.alivepic = `https://i.ibb.co/X3K9hQd/Sunith-20220929-003340.jpg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
